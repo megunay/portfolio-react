@@ -67,8 +67,8 @@ function Portfolio() {
                 <img src={image} alt={title} />
                 <h3>{title}</h3>
                 <div className="portfolio__item-cta">
-                  <a href={github} className='btn' target='_blank'>Github</a> {/* This link will be my project repo link */}
-                  <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+                  <a href={github} className='btn' target="_blank">Github</a> {/* This link will be my project repo link */}
+                  <a href={demo} className='btn btn-primary' target="_blank">Live Demo</a>
                 </div>
               </div>
             </article>

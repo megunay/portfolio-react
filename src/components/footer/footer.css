@@ -18,6 +18,13 @@ footer a {
     display: inline-block;
 }
 
+.footer__logo img{
+    width: 25%;
+    height: auto;
+    transform: translate(-50%);
+    margin-left: 50%;
+}
+
 .permalinks{
     display: flex;
     flex-wrap: wrap;

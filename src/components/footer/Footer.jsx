@@ -3,11 +3,12 @@ import './footer.css'
 import {FiFacebook} from 'react-icons/fi'
 import {FiInstagram} from 'react-icons/fi'
 import {FiTwitter} from 'react-icons/fi'
+import LOGO from '../../assets/logo.png'
 
 function Footer() {
   return (
     <footer>
-      <a href="#" className='footer__logo'>megunay</a>
+      <a href="#" className='footer__logo'><img src={LOGO} alt="My Logo" /></a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
