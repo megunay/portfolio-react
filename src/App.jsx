@@ -8,10 +8,13 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import ParticleBackground from './components/particleBackground.js'
+
 
 const App = () => {
   return (
     <>
+    <ParticleBackground />
     <Header />
     <Nav />
     <About />

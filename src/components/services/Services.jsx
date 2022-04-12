@@ -18,23 +18,27 @@ const Services =() => {
           <ul className="service__list">
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Product Design</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>UX Web Design</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Responsive Design</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Frontend Development</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Custom-Tailored Design</p>
+            </li>
+            <li>
+              <GiCheckMark className='service__list-icon' />
+              <p>Creative Solutions</p>
             </li>
           </ul>
         </article>
@@ -49,31 +53,35 @@ const Services =() => {
           <ul className="service__list">
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Web Application Development</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Content Management System</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Web Portals</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User Interface (UI) Design</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Mobile-optimized Website</p>
+            </li>
+            <li>
+              <GiCheckMark className='service__list-icon' />
+              <p>E-Commerce Systems</p>
             </li>
           </ul>
         </article>
 
-        <article className="service">
+        {/*<article className="service">
           <div className="service__head">
 
-            {/* Content Creation */}
+             Content Creation 
             <h3>Content Creation</h3>
           </div>
 
@@ -99,8 +107,8 @@ const Services =() => {
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
           </ul>
-        </article>
-      </div>
+        </article>*/}
+      </div> 
     </section>
   )
 }

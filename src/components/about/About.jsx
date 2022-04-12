@@ -41,7 +41,11 @@ const About = () => {
           </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus temporibus architecto dolores minima repellendus et perspiciatis facilis dolor. Dignissimos autem fugit, ad assumenda inventore modi et amet delectus at animi!
+              Hello, my name is Erkan. I'm a frontend developer from Turkey. I really like to learn and try new things. My passion is creating dynamic user experiences and UI effects.
+              <br /><br />              
+              Well organised person, problem solver and great team player. Fan of chess, basketball and learning.
+              <br /><br />
+              I develop websites with HTML, CSS, JavaScript, React and VUE. I have top skills in using design softwares like Figma, Adobe XD and PhotoShop.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
